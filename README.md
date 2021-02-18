@@ -1,4 +1,4 @@
-### Hi there 👋
+### C# Разработчик 
 
 <!--
 **r3xq1/r3xq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
