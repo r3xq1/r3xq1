@@ -1,5 +1,4 @@
 <h2> My GitHub Stats </h2>
-⚡ Malware</br>
 🔒 System security</br>
 👻 Sweet buns
 <h3>My Contacts 💬</h3>
